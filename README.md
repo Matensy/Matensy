@@ -1,7 +1,3 @@
-<a href="https://www.fethitekyaygil.com">
- <img src = "https://github.com/TekyaygilFethi/TekyaygilFethi/blob/main/Entrance.gif">
- </a>
-
 **About Me!**
 
 - 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
@@ -112,6 +108,3 @@
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme">
 </p>
-
-
-
