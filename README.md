@@ -1,28 +1,23 @@
-Sobre Mim
-Olá! Meu nome é Matheus, tenho 19 anos e sou estudante de Ciência da Computação. Sou apaixonado por tecnologia e estou focado em cybersecurity. Meu objetivo é contribuir para a segurança digital, protegendo sistemas e dados contra ameaças cibernéticas.
+### Hi, I'm Chip 👋
 
-Projetos
-Neste perfil do GitHub, você encontrará uma variedade de projetos relacionados à segurança cibernética. Estou constantemente aprendendo e aprimorando minhas habilidades, e este é o lugar onde compartilho meu trabalho e meus conhecimentos com a comunidade.
+<!--
+**chiphuyen/chiphuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Alguns dos tópicos que abordo incluem:
+I'm a writer and computer scientist. I grew up chasing grasshoppers in a small rice-farming village in Vietnam. I spend a lot of time with chickens and [alpacas](https://www.instagram.com/p/Bsjo44ThRRv/).
 
-Penetração e Testes de Segurança: Desenvolvo ferramentas e scripts para testar a segurança de sistemas e redes.
+- 🎓 I'll be teaching [Machine Learning Systems Design](https://huyenchip.com/2020/10/27/ml-systems-design-stanford.html) at Stanford in Jan 2021.
+- 🔭 I'm currently with [Snorkel AI](https://snorkel.ai), a data-first end-to-end platform for developing AI applications.
+- 📝 I write a lot! I'm the author of [four bestselling Vietnamese books][goodreads]. I'm working on an English book on [machine learning interviews][ml-interviews].
+- 😅 Fun fact: After high school, I went to Brunei for a 3-day vacation which turned into a 3-year trip through Asia, Africa, and South America. During my trip, I worked as a Bollywood extra, a casino hostess, and a street performer.
 
-Análise de Malware: Estudo e analiso malware para entender suas técnicas e ajudar na proteção contra ameaças.
+I'm best reached via [email](https://huyenchip.com/communication). I'm always open to interesting conversations and collaboration.
 
-Segurança Web: Trabalho em projetos relacionados à segurança de aplicativos web, incluindo detecção e mitigação de vulnerabilidades.
+[goodreads]: https://www.goodreads.com/author/show/4675230.Huy_n_Chip
+[ml-interviews]: https://huyenchip.com/2019/07/21/machine-learning-interviews.html
 
-Criptografia: Exploro e implemento técnicas de criptografia para proteger dados sensíveis.
+---
+[![Twitter Follow](https://img.shields.io/twitter/follow/chipro?label=Follow&style=social)](https://twitter.com/chipro)
 
-Conscientização de Segurança: Compartilho recursos e informações para aumentar a conscientização sobre segurança cibernética.
-
-Aprendizado Contínuo
-Estou sempre buscando aprender e crescer no campo da segurança cibernética. Acredito que a segurança é um esforço contínuo e colaborativo, e estou aberto a colaborações e discussões com outros entusiastas da segurança.
-
-Contato
-Se você deseja entrar em contato comigo ou colaborar em projetos relacionados à segurança cibernética, fique à vontade para me enviar uma mensagem aqui no GitHub ou me encontrar nas redes sociais. Vamos trabalhar juntos para tornar a internet um lugar mais seguro!
-
-Redes Sociais
-LinkedIn
-Twitter
-Obrigado por visitar o meu perfil do GitHub! 😃👨‍💻🔒  
+----
+Credit: [chiphuyen](https://github.com/chiphuyen)
